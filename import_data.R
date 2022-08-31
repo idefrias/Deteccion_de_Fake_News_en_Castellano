@@ -11,9 +11,7 @@ library(tidytext) # Minería de textos
 
 # ----- FAKE NEWS CORPUS SPANISH ----- 
 
-# Fuente y detalle de los datos:
-# https://www.kaggle.com/code/debajyotipodder/basic-eda-of-the-co2-emissions-by-vehicle-dataset/notebook>
-# En Kaggle aparecen separados pero los juntaremos
+
 col_names <- c("id", "category", "topic", "source", "headline", "text", "link")
 raw_test <- read_csv(file = "./DATOS/raw_test.csv", col_names = col_names)
 raw_train <- read_csv(file = "./DATOS/raw_train.csv", col_names = col_names)
