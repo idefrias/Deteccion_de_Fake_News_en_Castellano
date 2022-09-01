@@ -1,4 +1,4 @@
-# Aplicación de Técnicas de Machine Learning en la Clasificación de Noticias Falsas 
+# Aplicación de Técnicas de Machine Learning en la Clasificación de Noticias Falsas en el Idioma Castellano
 
 *Resumen*
 
